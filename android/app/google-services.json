@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1026840064375",
+    "project_id": "base-app-ad2c8",
+    "storage_bucket": "base-app-ad2c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026840064375:android:23281aff23ffdce5ba7172",
+        "android_client_info": {
+          "package_name": "com.hagun.base_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026840064375-j0fd8pun9gbrnv8qhavtvkcrgtsidqmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqsNmSHX7Tg6k2M_ufURPgpOonE4u_ihQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026840064375-j0fd8pun9gbrnv8qhavtvkcrgtsidqmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
